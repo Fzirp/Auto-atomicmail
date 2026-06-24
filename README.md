@@ -33,3 +33,21 @@ The project relies on Selenium and an automated driver manager. You can see the 
 To install dependencies, run:
 ```bash
 pip install -r requirements.txt
+
+
+
+
+🚀 Step-by-Step Guide to Run
+Clone this repository or download the source files into your workspace directory.
+
+Open your terminal or Command Prompt (CMD) inside the project folder.
+
+Fire up the script using:
+
+Bash
+python atomicmail.py
+Watch the script execute the initial steps in seconds.
+
+When the CAPTCHA pops up on the Seed Phrase screen, solve it manually.
+
+Once completed, let the script close itself and open your newly created accounts.txt file to view your saved credentials!
